@@ -1,1 +1,1 @@
-# Email-Encryption-Key
+Key to send me an encrypted email.
